@@ -16,7 +16,7 @@ describe("Pruebas automáticas HTML - Centro de Incidencias", () => {
 
   test("Existe un título <h1>", () => {
     const h1 = document.querySelector("h1");
-    expect(h1).toBeNull();
+    expect(h1).not.toBeNull();
   });
 
   test("El <h1> tiene texto", () => {
