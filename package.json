@@ -5,7 +5,7 @@
     "test": "node node_modules/jest/bin/jest.js"
   },
   "devDependencies": {
-    "jest": "^29.7.0",
+    "dependencia-inexistente": "^29.7.0",
     "jsdom": "^21.1.0"
   }
 }
