@@ -105,15 +105,15 @@ Se creó un Web Service vinculado al repositorio de GitHub.
 
 Configuración del servicio:
 
-- Rama: main
+- **Rama:** main
 
-- Build Command: npm install && npm test
+- **Build Command:** npm install && npm test
 
-- Start Command: npm start
+- **Start Command:** npm start
 
-- Auto-Deploy: On Commit
+- **Auto-Deploy:** On Commit
 
-- Tipo de instancia: Free
+- **Tipo de instancia:** Free
 
 Cada nuevo commit en la rama main provoca automáticamente un nuevo despliegue.
 
@@ -198,5 +198,6 @@ Se ha implementado con éxito un pipeline CI/CD completo que integra:
 - Control de versiones
 
 - Rollback funcional
+
 
 
