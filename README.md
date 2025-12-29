@@ -117,7 +117,7 @@ Configuración del servicio:
 
 Cada nuevo commit en la rama main provoca automáticamente un nuevo despliegue.
 
-## 7. Pipeline de Build y Deploy
+## 7. Pasos Ejecutados por Render durante el Despliegue
 
 Durante el despliegue, Render ejecuta automáticamente los siguientes pasos:
 
@@ -198,6 +198,7 @@ Se ha implementado con éxito un pipeline CI/CD completo que integra:
 - Control de versiones
 
 - Rollback funcional
+
 
 
 
