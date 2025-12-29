@@ -187,7 +187,7 @@ Además el endpoint /estado sigue funcionando correctamente.
 
 Esto confirma que el rollback se realizó correctamente y que la versión desplegada corresponde al commit esperado.
 
-## 12. Conclusión
+## 13. Conclusión
 
 Se ha implementado con éxito un pipeline CI/CD completo que integra:
 
@@ -198,4 +198,5 @@ Se ha implementado con éxito un pipeline CI/CD completo que integra:
 - Control de versiones
 
 - Rollback funcional
+
 
