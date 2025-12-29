@@ -183,7 +183,7 @@ La web vuelve a mostrar:
 <h3>Este es el commit al que realizaremos en el futuro un rollback</h3>
 ```
 
-Además el endpoint /estado sigue funcionando correctamente.
+Además el endpoint `/estado` sigue funcionando correctamente.
 
 Esto confirma que el rollback se realizó correctamente y que la versión desplegada corresponde al commit esperado.
 
@@ -198,6 +198,7 @@ Se ha implementado con éxito un pipeline CI/CD completo que integra:
 - Control de versiones
 
 - Rollback funcional
+
 
 
 
