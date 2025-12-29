@@ -1,4 +1,4 @@
-# HITO 4 — HITO 4 - Pipeline Completo con Despliegue, Tests y Rollback
+# HITO 4 - Pipeline Completo con Despliegue, Tests y Rollback
 
 ## Introducción
 
@@ -198,3 +198,4 @@ Se ha implementado con éxito un pipeline CI/CD completo que integra:
 - Control de versiones
 
 - Rollback funcional
+
